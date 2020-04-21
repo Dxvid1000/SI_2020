@@ -1,9 +1,43 @@
 body{
-    background-color: rgb(102, 36, 36)
+    background-color: rgb(114, 24, 24);
 }
 h1{
     color: white;
+    padding: 2% 31%;
 }
-li{
-    color: whitesmoke;
+h2{
+    color: rgb(203, 189, 189);
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    display: inline-block
+}
+ul li a{
+    color: rgb(216, 216, 198);
+    font-family: fantasy;
+    font-size: 25px;
+    text-decoration: none;
+    display: block;
+    padding: 15px 60px;
+}
+ul li a:hover{
+    background-color: rgb(159, 163, 17);
+}
+
+#bloques{
+    width: 70%;
+    height: 120px;
+    background-color:rgb(79, 13, 13);
+    margin: 10px 220px;
+}
+#bloques p{
+    color: rgb(255, 248, 248);
+    font-family: 'Courier New', Courier, monospace;
+}
+#bloques a{
+    font-size: 19px;
 }
