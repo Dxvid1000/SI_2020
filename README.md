@@ -1,7 +1,7 @@
 PROYECTO EN EQUIPO
 =========================
 
-DESCRIPCION:
+INTEGRANTES:
 ------------------------
 
 *ARREOLA ESPINOSA CARLOS ERNESTO
