@@ -8,6 +8,14 @@ h1{
 h2{
     color: rgb(203, 189, 189);
 }
+p{
+    color: beige;
+}
+b{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50px 500px;
+}
 ul{
     list-style: none;
     margin: 0;
